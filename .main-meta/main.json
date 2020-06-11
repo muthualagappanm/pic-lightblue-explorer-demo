@@ -1,0 +1,62 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.0.0",
+        "name": "com.microchip.mcu8.mplabx.project.pic_lightblue_explorer",
+        "version": "1.75.2",
+        "displayName": "PIC LIGHTBLUE EXPLORER",
+        "projectName": "PIC16LF18456-pic-lightblue-explorer",
+        "shortDescription": "Code example showing LightBlue Explorer Demo",
+        "ide": {
+            "name": "MPLABX",
+            "semverRange": ">=5.30.0"
+        },
+        "compiler": {
+            "name": "XC8",
+            "semverRange": "^5.30"
+        },
+        "dfp": {
+            "name": "PIC16LF18456_DFP",
+            "semverRange": "^1.3.222"
+        },
+        "configurator": {
+            "name": "Harmony",
+            "semverRange": ">=3.75"
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "PIC16LF18456",
+                "versionRange": "*"
+            }
+        },
+        "author": "Microchip",
+        "subcategories": [
+            [
+                "BLE"
+            ]
+        ],
+        "peripherals": [
+            "UART"
+        ],
+        "keywords": [
+            "LIGHT BLUE",
+            "BLE"
+        ],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./help.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
