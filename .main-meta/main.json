@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.0.0",
         "name": "com.microchip.mcu8.mplabx.project.pic_lightblue_explorer",
-        "version": "1.75.2",
+        "version": "1.80.2",
         "displayName": "PIC LIGHTBLUE EXPLORER",
         "projectName": "PIC16LF18456-pic-lightblue-explorer",
         "shortDescription": "Code example showing LightBlue Explorer Demo",
