@@ -2,9 +2,9 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.0.0",
+        "metaDataVersion": "0.99.0",
         "name": "com.microchip.mcu8.mplabx.project.pic_lightblue_explorer",
-        "version": "1.80.2",
+        "version": "0.99.0",
         "displayName": "PIC LIGHTBLUE EXPLORER",
         "projectName": "PIC16LF18456-pic-lightblue-explorer",
         "shortDescription": "Code example showing LightBlue Explorer Demo",
@@ -56,7 +56,11 @@
                     "fileName": "./help.md",
                     "mimeType": "text/markdown"
                 }
-            }
+            },
+			"links": {
+            "openWithUrl": "https://ww1.microchip.com/downloads/en/Appnotes/01463A.pdf",
+            "downloadUrl": "https://ww1.microchip.com/downloads/en/AppNotes/01463A_source.zip"
+          }
         }
     }
 }
